@@ -3,11 +3,19 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("Projet_Banque")
+project ("Class")
+
+# Incluez les sous-projets.
+add_subdirectory ("Class_Banque")
+
+# Incluez les sous-projets.
+add_subdirectory ("Class_Client")
 
 # Incluez les sous-projets.
 add_subdirectory ("Class_Comptes")
-add_subdirectory ("Class_Client")
-add_subdirectory ("Class_Banque")
-add_subdirectory ("Class_Transactions")
-add_subdirectory ("Fonctions_General")
+
+# Incluez les sous-projets.
+add_subdirectory ("Class_Transaction")
+
+# Incluez les sous-projets.
+add_subdirectory ("Fonction_General")

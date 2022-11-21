@@ -5,10 +5,10 @@ cmake_minimum_required (VERSION 3.8)
 
 
 # Ajoutez une source à l'exécutable de ce projet.
-add_executable (Class_Banque "Class.cpp" "Class.h")
+add_executable(Class_Transaction "Class.cpp" "Class.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
-  set_property(TARGET Class_Banque PROPERTY CXX_STANDARD 20)
+  set_property(TARGET Class_Transaction PROPERTY CXX_STANDARD 20)
 endif()
 
 # TODO: Ajoutez des tests et installez des cibles si nécessaire.
