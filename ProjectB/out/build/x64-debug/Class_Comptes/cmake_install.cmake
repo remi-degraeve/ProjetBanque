@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/Cir 2 2022-2023/Informatique/C++/TP/ProjectB/Class_Comptes
+# Install script for directory: C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/Class_Comptes
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/Cir 2 2022-2023/Informatique/C++/TP/ProjectB/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
