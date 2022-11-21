@@ -13,9 +13,8 @@
   },
   "ExpandedNodes": [
     "",
-    "\\Class_Banque",
-    "\\Fonction_General"
+    "\\out\\build"
   ],
-  "SelectedNode": "\\Class_Banque\\CMakeLists.txt",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
