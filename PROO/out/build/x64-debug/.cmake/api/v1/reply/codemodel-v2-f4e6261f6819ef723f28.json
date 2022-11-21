@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Class_Banque",
+					"jsonFile" : "directory-Class_Banque-Debug-f6d3f22a1cb89fbbea23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Banque",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Class_Client",
+					"jsonFile" : "directory-Class_Client-Debug-e14c01d58c5dcfed6b63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Client",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Class_Comptes",
+					"jsonFile" : "directory-Class_Comptes-Debug-35fe3a873508577dd49e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Comptes",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Class_Transaction",
+					"jsonFile" : "directory-Class_Transaction-Debug-193f8bcb95eeda0bc68b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Transaction",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Fonction_General",
+					"jsonFile" : "directory-Fonction_General-Debug-6e619922e7f32ab77e7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Fonction_General",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "PROO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Class1::@e02f1f0c759ac0474de8",
+					"jsonFile" : "target-Class1-Debug-65ead323a3cdb0505f70.json",
+					"name" : "Class1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Class2::@61855bc16f6741f5bc83",
+					"jsonFile" : "target-Class2-Debug-66a9d97bd8253abea5ee.json",
+					"name" : "Class2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Class3::@54288765b6d3baa49f48",
+					"jsonFile" : "target-Class3-Debug-c5efa40ff795256b3ec8.json",
+					"name" : "Class3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Class_Transaction::@d5c2ed03719d2847bf6a",
+					"jsonFile" : "target-Class_Transaction-Debug-05b493069dfc7b02c8af.json",
+					"name" : "Class_Transaction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Fonction_General::@9c7bdf1559afd0d517ad",
+					"jsonFile" : "target-Fonction_General-Debug-d30212789bbb2f8f4474.json",
+					"name" : "Fonction_General",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrateur/source/repos/PROO/out/build/x64-debug",
+		"source" : "C:/Users/Administrateur/source/repos/PROO"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
