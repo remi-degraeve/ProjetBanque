@@ -5,4 +5,18 @@
 
 #include <iostream>
 
+class class_Compte {
+
+private:
+
+	int money;
+	string nom_banque;
+	bool compte_épargne;
+
+public:
+
+
+
+};
+
 // TODO: Référencez ici les en-têtes supplémentaires nécessaires à votre programme.

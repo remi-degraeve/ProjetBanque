@@ -5,4 +5,19 @@
 
 #include <iostream>
 
+class class_Banque {
+
+private:
+
+	int tab[100];;
+	string nom;
+	int num_banque;
+
+public:
+
+
+
+};
+
+
 // TODO: Référencez ici les en-têtes supplémentaires nécessaires à votre programme.

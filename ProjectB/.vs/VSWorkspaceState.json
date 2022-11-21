@@ -12,10 +12,8 @@
     ]
   },
   "ExpandedNodes": [
-    "",
-    "\\Class_Banque",
-    "\\Class_Transactions"
+    ""
   ],
-  "SelectedNode": "\\Class_Banque\\Class_Banque.cpp",
+  "SelectedNode": "\\Class_Transactions",
   "PreviewInSolutionExplorer": false
 }
