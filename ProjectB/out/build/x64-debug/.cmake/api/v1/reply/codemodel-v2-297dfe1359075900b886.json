@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Class_Client",
+					"jsonFile" : "directory-Class_Client-Debug-e14c01d58c5dcfed6b63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Client",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Class_Banque",
+					"jsonFile" : "directory-Class_Banque-Debug-f6d3f22a1cb89fbbea23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Banque",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Class_Transactions",
+					"jsonFile" : "directory-Class_Transactions-Debug-f5eb76a9b84dc4461277.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Transactions",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Fonctions_general",
+					"jsonFile" : "directory-Fonctions_general-Debug-60dff82f75e6a667b6b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Fonctions_general",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Class_Comptes",
+					"jsonFile" : "directory-Class_Comptes-Debug-35fe3a873508577dd49e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Class_Comptes",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "ProjectB",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Class1::@e02f1f0c759ac0474de8",
+					"jsonFile" : "target-Class1-Debug-65ead323a3cdb0505f70.json",
+					"name" : "Class1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Class2::@61855bc16f6741f5bc83",
+					"jsonFile" : "target-Class2-Debug-66a9d97bd8253abea5ee.json",
+					"name" : "Class2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Class3::@54288765b6d3baa49f48",
+					"jsonFile" : "target-Class3-Debug-c5efa40ff795256b3ec8.json",
+					"name" : "Class3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Class4::@583bfb4840300ef1222a",
+					"jsonFile" : "target-Class4-Debug-972c1a27c833637e33d1.json",
+					"name" : "Class4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Projet_Banque_Fonctions::@208d52b4775e97dbd71f",
+					"jsonFile" : "target-Projet_Banque_Fonctions-Debug-b1f37e4ed0df4b1539ea.json",
+					"name" : "Projet_Banque_Fonctions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrateur/OneDrive - JUNIA Grande \u00e9cole d'ing\u00e9nieurs/Documents/Cir 2 2022-2023/Informatique/C++/TP/ProjectB/out/build/x64-debug",
+		"source" : "C:/Users/Administrateur/OneDrive - JUNIA Grande \u00e9cole d'ing\u00e9nieurs/Documents/Cir 2 2022-2023/Informatique/C++/TP/ProjectB"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
