@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Class_Banque/Class1.exe"
+			"path" : "Class_Client/Class2.exe"
 		},
 		{
-			"path" : "Class_Banque/Class1.pdb"
+			"path" : "Class_Client/Class2.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -18,7 +18,7 @@
 		],
 		"files" : 
 		[
-			"Class_Banque/CMakeLists.txt"
+			"Class_Client/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -62,11 +62,12 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				2
 			]
 		}
 	],
-	"id" : "Class1::@e02f1f0c759ac0474de8",
+	"id" : "Class2::@61855bc16f6741f5bc83",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,12 +87,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Class1",
-	"nameOnDisk" : "Class1.exe",
+	"name" : "Class2",
+	"nameOnDisk" : "Class2.exe",
 	"paths" : 
 	{
-		"build" : "Class_Banque",
-		"source" : "Class_Banque"
+		"build" : "Class_Client",
+		"source" : "Class_Client"
 	},
 	"sourceGroups" : 
 	[
@@ -99,7 +100,8 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				2
 			]
 		},
 		{
@@ -115,13 +117,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Class_Banque/Class_Banque.cpp",
+			"path" : "Class_Client/Class_Client.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Class_Banque/Class_Banque.h",
+			"path" : "Class_Client/Class_Client.h",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Class_Client/Customer_for_JSON.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"

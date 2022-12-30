@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/Fonctions_general
+# Install script for directory: C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/Fonctions_general
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/Source/Repos/remi-degraeve/ProjetBanque/ProjectB/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

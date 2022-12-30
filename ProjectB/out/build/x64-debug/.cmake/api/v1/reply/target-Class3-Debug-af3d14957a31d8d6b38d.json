@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Class_Client/Class2.exe"
+			"path" : "Class_Comptes/Class3.exe"
 		},
 		{
-			"path" : "Class_Client/Class2.pdb"
+			"path" : "Class_Comptes/Class3.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -18,7 +18,7 @@
 		],
 		"files" : 
 		[
-			"Class_Client/CMakeLists.txt"
+			"Class_Comptes/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -62,11 +62,12 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				2
 			]
 		}
 	],
-	"id" : "Class2::@61855bc16f6741f5bc83",
+	"id" : "Class3::@54288765b6d3baa49f48",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,12 +87,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Class2",
-	"nameOnDisk" : "Class2.exe",
+	"name" : "Class3",
+	"nameOnDisk" : "Class3.exe",
 	"paths" : 
 	{
-		"build" : "Class_Client",
-		"source" : "Class_Client"
+		"build" : "Class_Comptes",
+		"source" : "Class_Comptes"
 	},
 	"sourceGroups" : 
 	[
@@ -99,7 +100,8 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				2
 			]
 		},
 		{
@@ -115,13 +117,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Class_Client/Class_Client.cpp",
+			"path" : "Class_Comptes/Class_Comptes.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Class_Client/Class_Client.h",
+			"path" : "Class_Comptes/Class_Comptes.h",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Class_Comptes/Comptes_for_JSON.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"

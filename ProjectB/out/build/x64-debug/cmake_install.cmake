@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB
+# Install script for directory: C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/install/x64-debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Administrateur/Source/Repos/remi-degraeve/ProjetBanque/ProjectB/out/install/x64-debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,11 +34,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/Class_Client/cmake_install.cmake")
-  include("C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/Class_Banque/cmake_install.cmake")
-  include("C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/Class_Transactions/cmake_install.cmake")
-  include("C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/Fonctions_general/cmake_install.cmake")
-  include("C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/Class_Comptes/cmake_install.cmake")
+  include("C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/Class_Client/cmake_install.cmake")
+  include("C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/Class_Banque/cmake_install.cmake")
+  include("C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/Class_Transactions/cmake_install.cmake")
+  include("C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/Fonctions_general/cmake_install.cmake")
+  include("C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/Class_Comptes/cmake_install.cmake")
 
 endif()
 
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Administrateur/OneDrive - JUNIA Grande école d'ingénieurs/Documents/GitHub/ProjetBanque/ProjectB/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Administrateur/source/repos/remi-degraeve/ProjetBanque/ProjectB/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
