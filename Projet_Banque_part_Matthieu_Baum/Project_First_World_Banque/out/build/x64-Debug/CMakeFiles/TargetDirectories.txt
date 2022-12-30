@@ -1,0 +1,8 @@
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Class/CMakeFiles/customer.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Class/CMakeFiles/edit_cache.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Class/CMakeFiles/rebuild_cache.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Boost_JSON/CMakeFiles/write_read_json.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Boost_JSON/CMakeFiles/edit_cache.dir
+C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug/Boost_JSON/CMakeFiles/rebuild_cache.dir
