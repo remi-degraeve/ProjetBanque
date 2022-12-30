@@ -8,4 +8,5 @@ project ("Project_First_World_Banque")
 # Incluez les sous-projets.
 add_subdirectory ("Class")
 add_subdirectory ("Boost_JSON")
+add_subdirectory ("Sockets")
 
