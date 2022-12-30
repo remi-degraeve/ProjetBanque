@@ -1,0 +1,23 @@
+# ninja log v5
+4	2088	6938855359069497	CMakeFiles/Fonction.dir/Fonction_General.cpp.obj	921045aee1e2d6b9
+16	1064	6939505400507019	Class/CMakeFiles/Class.dir/Class_Client.cpp.obj	804be778e61c717d
+4	638	6938869857451479	Fonction.exe	f3a36b39fd8ac81a
+5	1276	6938868415456957	CMakeFiles/Fonction.dir/Test.cpp.obj	64d327ad8506ad35
+1340	1851	6939501594045780	Class/Class.exe	b3f9c0226074d714
+29	4326	6941302068450099	Class/CMakeFiles/customer.dir/Customer_for_JSON.cpp.obj	d07f56f56f7663e
+39	2977	6941343579680922	Boost_JSON/CMakeFiles/write_read_json.dir/write_read_json.cpp.obj	cdce7793b86a735b
+22	4244	6941302067638770	Class/CMakeFiles/customer.dir/Class_Client.cpp.obj	281b0fe567e48c07
+4327	4545	6941302069853599	Class/customer.lib	6663203a7fa24a9f
+4545	5564	6941302079888422	Boost_JSON/write_read_json.exe	4691e3c58730d3ee
+8	247	6941348166932220	build.ninja	e152a5e33d9e5469
+31	2846	6941349334444392	Boost_JSON/CMakeFiles/write_read_json.dir/write_read_json.cpp.obj	cdce7793b86a735b
+19	2877	6941349334813389	Class/CMakeFiles/customer.dir/Class_Client.cpp.obj	281b0fe567e48c07
+25	2918	6941349335222179	Class/CMakeFiles/customer.dir/Customer_for_JSON.cpp.obj	d07f56f56f7663e
+2919	3140	6941349336286133	Class/customer.lib	6663203a7fa24a9f
+3140	3676	6941349341658015	Boost_JSON/write_read_json.exe	4892df87311e584
+21	2407	6941349556716175	Boost_JSON/CMakeFiles/write_read_json.dir/write_read_json.cpp.obj	cdce7793b86a735b
+2408	2762	6941349559557388	Boost_JSON/write_read_json.exe	4892df87311e584
+27	2294	6941353868737358	Boost_JSON/CMakeFiles/write_read_json.dir/write_read_json.cpp.obj	cdce7793b86a735b
+20	2480	6941353870732432	Class/CMakeFiles/customer.dir/Class_Client.cpp.obj	281b0fe567e48c07
+2481	2603	6941353871733487	Class/customer.lib	6663203a7fa24a9f
+2603	3155	6941353876738208	Boost_JSON/write_read_json.exe	4892df87311e584

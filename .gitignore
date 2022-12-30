@@ -1,3 +1,6 @@
+#ignorer fichier pdb out
+Projet_Banque_part_Matthieu_Baum/Project_First_World_Banque/out/build/x64-Debug/Boost_JSON/write_read_json.pdb
+
 #settings visual studio
 .vs/
 

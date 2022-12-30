@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Class",
+					"jsonFile" : "directory-Class-Debug-fbbfd3a2db333a09bc19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Class",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Boost_JSON",
+					"jsonFile" : "directory-Boost_JSON-Debug-b9fd9c6391d2f82aacf2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Boost_JSON",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project_First_World_Banque"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Class",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "json",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "customer::@fe33be097a68e33b6bf0",
+					"jsonFile" : "target-customer-Debug-4b7727c80f5eae3d6607.json",
+					"name" : "customer",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "write_read_json::@6e67048d3b207374ef24",
+					"jsonFile" : "target-write_read_json-Debug-697a64c565ea19045472.json",
+					"name" : "write_read_json",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MATT_PC/source/repos/Project_First_World_Banque/out/build/x64-Debug",
+		"source" : "C:/Users/MATT_PC/source/repos/Project_First_World_Banque"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
